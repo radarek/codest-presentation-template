@@ -13,5 +13,8 @@
   },
   "devDependencies": {
     "reveal-md": "^3.0.4"
+  },
+  "resolutions": {
+    "lodash": "4.17.13"
   }
 }
